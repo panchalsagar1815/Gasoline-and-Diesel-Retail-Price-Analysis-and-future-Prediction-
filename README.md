@@ -1,4 +1,4 @@
-# Gasoline-and-D
+# Gasoline
 **Project Title: USA Gasoline and Diesel Retail Price Analysis and Future Prediction**
 
 **Overview:**
