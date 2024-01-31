@@ -1,4 +1,4 @@
-# Gasoline-and-Diesel-Retail-Price-Analysis
+# Gasoline-and-Diesel-Retail-Price
 **Project Title: USA Gasoline and Diesel Retail Price Analysis and Future Prediction**
 
 **Overview:**
