@@ -1,5 +1,4 @@
-# 
-**Project Title: USA Gasoline and Diesel Retail Price Analysis and Future Prediction**
+# **Project Title: USA Gasoline and Diesel Retail Price Analysis and Future Prediction**
 
 **Overview:**
 The "USA Gasoline and Diesel Retail Price Analysis and Future Prediction" project aims to provide a comprehensive analysis of gasoline and diesel retail prices in the United States. By leveraging advanced data cleaning, preprocessing, scaling, and visualization techniques, the project develops predictive models to analyze historical price trends and forecast future prices. This initiative holds significant value for stakeholders in the energy sector, policymakers, and consumers seeking insights into fuel pricing dynamics.
