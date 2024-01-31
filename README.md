@@ -7,7 +7,7 @@ The "USA Gasoline and Diesel Retail Price Analysis and Future Prediction" projec
 
 1. **Data Collection and Cleaning:**
    - Assembled a dataset with features including Date, A1, A2, A3, R1, R2, R3, M1, M2, M3, P1, P2, P3, D1, representing various aspects of gasoline and diesel retail prices.
-   - Employed data cleaning techniques to address missing values, outliers, and ensure data consistency.
+   - Employed data cleaning techniques to address missing values, and outliers, and ensure data consistency.
    - Ensured the integrity and reliability of the dataset for accurate analysis.
 
 2. **Data Preprocessing and Scaling:**
